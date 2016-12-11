@@ -9,7 +9,7 @@
     "geom:bbox":"-74.00827,40.759946,-73.96373,40.79332",
     "geom:latitude":40.776181,
     "geom:longitude":-73.987346,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4254180.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 67",
     "uscensus:sldlst":"067",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487722,
     "wof:geomhash":"0cb2899089021e7020b38bc61a80be27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771269,
     "wof:lastmodified":1481487722,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-79.31214,42.569918,-78.78205,42.95153",
     "geom:latitude":42.736714,
     "geom:longitude":-79.018299,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":141060504.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 149",
     "uscensus:sldlst":"149",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487742,
     "wof:geomhash":"0784cd331f88cbafb32e814f3ef325cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771453,
     "wof:lastmodified":1481487742,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

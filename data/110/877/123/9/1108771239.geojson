@@ -9,7 +9,7 @@
     "geom:bbox":"-73.94353,40.67211,-73.86171,40.69864",
     "geom:latitude":40.685834,
     "geom:longitude":-73.894371,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":7367857.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 54",
     "uscensus:sldlst":"054",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487719,
     "wof:geomhash":"ded2915935077ca741d8d4a0a400f5dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771239,
     "wof:lastmodified":1481487719,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

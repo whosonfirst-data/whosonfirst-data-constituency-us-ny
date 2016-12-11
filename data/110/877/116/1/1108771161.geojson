@@ -9,7 +9,7 @@
     "geom:bbox":"-73.70765,40.69487,-73.56962,40.852619",
     "geom:latitude":40.761313,
     "geom:longitude":-73.628,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":75815636.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 19",
     "uscensus:sldlst":"019",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487710,
     "wof:geomhash":"f88b6ad1dbbcac12644b0c5202bdbb87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771161,
     "wof:lastmodified":1481487710,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

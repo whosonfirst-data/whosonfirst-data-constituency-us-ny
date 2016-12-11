@@ -9,7 +9,7 @@
     "geom:bbox":"-78.83233,42.86275,-77.59677,43.15155",
     "geom:latitude":43.014162,
     "geom:longitude":-78.245625,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1901096543.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 61",
     "uscensus:sldust":"061",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487769,
     "wof:geomhash":"07e50136f475bfcb09d628aa1f6a08c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771593,
     "wof:lastmodified":1481487769,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-73.91937,40.840246,-73.88891,40.873455",
     "geom:latitude":40.854348,
     "geom:longitude":-73.904471,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4155245.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 86",
     "uscensus:sldlst":"086",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487725,
     "wof:geomhash":"9ee66fbacdc1e7bc188886b88ea419c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771311,
     "wof:lastmodified":1481487725,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

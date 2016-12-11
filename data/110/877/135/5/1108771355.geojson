@@ -9,7 +9,7 @@
     "geom:bbox":"-74.000115,41.438905,-73.51096,41.850318",
     "geom:latitude":41.641038,
     "geom:longitude":-73.718422,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":972002980.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 105",
     "uscensus:sldlst":"105",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487730,
     "wof:geomhash":"79b21392e7f3d9a03ec43647d1660b65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771355,
     "wof:lastmodified":1481487730,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

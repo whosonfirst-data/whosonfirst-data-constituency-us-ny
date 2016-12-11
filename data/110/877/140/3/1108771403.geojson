@@ -9,7 +9,7 @@
     "geom:bbox":"-76.28295,42.77473,-75.89608,43.271605",
     "geom:latitude":43.003605,
     "geom:longitude":-76.047334,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":735774205.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 127",
     "uscensus:sldlst":"127",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487737,
     "wof:geomhash":"91e4f9d2a3e7560e3527f8e26481ff94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771403,
     "wof:lastmodified":1481487737,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

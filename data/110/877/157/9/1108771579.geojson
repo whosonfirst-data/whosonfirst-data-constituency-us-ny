@@ -9,7 +9,7 @@
     "geom:bbox":"-77.760736,42.57637,-77.314461,43.63208",
     "geom:latitude":43.109804,
     "geom:longitude":-77.489986,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1227673529.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 55",
     "uscensus:sldust":"055",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487766,
     "wof:geomhash":"1e43fde4d5e7da384bd94e3b3007b975",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771579,
     "wof:lastmodified":1481487766,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

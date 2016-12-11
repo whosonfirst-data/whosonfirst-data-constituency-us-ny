@@ -9,7 +9,7 @@
     "geom:bbox":"-73.97884,41.97798,-73.26483,43.306998",
     "geom:latitude":42.629461,
     "geom:longitude":-73.595788,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4398098981.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 43",
     "uscensus:sldust":"043",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487760,
     "wof:geomhash":"ae82aba255fcc409cad6531ce075699f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771553,
     "wof:lastmodified":1481487760,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

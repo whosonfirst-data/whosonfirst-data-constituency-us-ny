@@ -9,7 +9,7 @@
     "geom:bbox":"-77.70163,43.09194,-77.51654,43.63195",
     "geom:latitude":43.354575,
     "geom:longitude":-77.573191,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":109647419.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 136",
     "uscensus:sldlst":"136",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487738,
     "wof:geomhash":"e4aba584d71205690fe6ecdc03d1b1d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771423,
     "wof:lastmodified":1481487738,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

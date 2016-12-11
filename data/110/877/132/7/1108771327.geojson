@@ -9,7 +9,7 @@
     "geom:bbox":"-73.87183,40.959277,-73.48269,41.366375",
     "geom:latitude":41.202016,
     "geom:longitude":-73.660091,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":466707493.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 93",
     "uscensus:sldlst":"093",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487727,
     "wof:geomhash":"6c08c241f12091d6c1d3e0713429ac8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771327,
     "wof:lastmodified":1481487727,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],

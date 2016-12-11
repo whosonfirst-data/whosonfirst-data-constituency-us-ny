@@ -9,7 +9,7 @@
     "geom:bbox":"-74.00576,40.608702,-73.95122,40.64077",
     "geom:latitude":40.624844,
     "geom:longitude":-73.978739,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":6851674.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 48",
     "uscensus:sldlst":"048",
     "uscensus:statefp":"36",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487718,
     "wof:geomhash":"54984ec7f2440079487b8d46ebf003c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108771225,
     "wof:lastmodified":1481487718,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688543,
     "wof:repo":"whosonfirst-data-constituency-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],
