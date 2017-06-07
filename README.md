@@ -1,3 +1,5 @@
 # whosonfirst-data-constituency-us-ny
 
-This is very much a work in progress.
+THIS REPOSITORY IS DEPRECATED
+
+Everything here has moved to [whosonfirst-data-constituency-us](https://github.com/whosonfirst-data/whosonfirst-data-constituency-us).
